@@ -1,0 +1,642 @@
+Movie Name,Year,Genre,IMDb Rating,Box Office
+Alice Solves the Puzzle,1925,Animation,5.8,
+Alice Solves the Puzzle,1925, Short,5.8,
+Alice Solves the Puzzle,1925, Family,5.8,
+Trolley Troubles,1927,Animation,6.3,
+Trolley Troubles,1927, Short,6.3,
+Trolley Troubles,1927, Comedy,6.3,
+Plane Crazy,1928,Animation,7.3,
+Plane Crazy,1928, Family,7.3,
+Plane Crazy,1928, Comedy,7.3,
+Plane Crazy,1928, Short,7.3,
+Steamboat Willie,1928,Animation,7.6,
+Steamboat Willie,1928, Short,7.6,
+Steamboat Willie,1928, Comedy,7.6,
+Steamboat Willie,1928, Family,7.6,
+Steamboat Willie,1928, Musical,7.6,
+The Chain Gang,1930,Animation,6.6,
+The Chain Gang,1930, Short,6.6,
+The Chain Gang,1930, Comedy,6.6,
+Mickey's Revue,1932,Comedy,6.5,
+Mickey's Revue,1932, Family,6.5,
+Mickey's Revue,1932, Animation,6.5,
+Mickey's Revue,1932, Short,6.5,
+Three Little Pigs,1933,Animation,7.5,
+Three Little Pigs,1933, Short,7.5,
+Three Little Pigs,1933, Comedy,7.5,
+Three Little Pigs,1933, Family,7.5,
+Three Little Pigs,1933, Musical,7.5,
+Orphan's Benefit,1934,Family,6.7,
+Orphan's Benefit,1934, Animation,6.7,
+Orphan's Benefit,1934, Short,6.7,
+The Wise Little Hen,1934,Animation,7.2,
+The Wise Little Hen,1934, Short,7.2,
+The Wise Little Hen,1934, Comedy,7.2,
+Mickey's Steam Roller,1934,Comedy,6.8,
+Mickey's Steam Roller,1934, Family,6.8,
+Mickey's Steam Roller,1934, Animation,6.8,
+The Tortoise and the Hare,1935,Animation,7.2,
+The Tortoise and the Hare,1935, Short,7.2,
+The Tortoise and the Hare,1935, Comedy,7.2,
+The Tortoise and the Hare,1935, Family,7.2,
+Mickey's Rival,1936,Animation,6.9,
+Mickey's Rival,1936, Short,6.9,
+Mickey's Rival,1936, Comedy,6.9,
+Mickey's Rival,1936, Family,6.9,
+Mickey's Rival,1936, Romance,6.9,
+Snow White and the Seven Dwarfs,1937,Animation,7.6,
+Snow White and the Seven Dwarfs,1937, Family,7.6,
+Snow White and the Seven Dwarfs,1937, Fantasy,7.6,
+Snow White and the Seven Dwarfs,1937, Musical,7.6,
+Snow White and the Seven Dwarfs,1937, Romance,7.6,
+Donald's Nephews,1938,Animation,7.2,
+Donald's Nephews,1938, Short,7.2,
+Donald's Nephews,1938, Comedy,7.2,
+Donald's Cousin Gus,1939,Family,7,
+Donald's Cousin Gus,1939, Animation,7,
+Donald's Cousin Gus,1939, Comedy,7,
+Fantasia,1940,Animation,7.8,
+Fantasia,1940, Family,7.8,
+Fantasia,1940, Fantasy,7.8,
+Fantasia,1940, Music,7.8,
+Pinocchio,1940,Animation,7.4,
+Pinocchio,1940, Comedy,7.4,
+Pinocchio,1940, Family,7.4,
+Pinocchio,1940, Fantasy,7.4,
+Pinocchio,1940, Musical,7.4,
+Bone Trouble,1940,Family,7.2,
+Bone Trouble,1940, Animation,7.2,
+Bone Trouble,1940, Comedy,7.2,
+Mr. Duck Steps Out,1940,Animation,7.5,
+Mr. Duck Steps Out,1940, Short,7.5,
+Mr. Duck Steps Out,1940, Comedy,7.5,
+Dumbo,1941,Animation,7.2,
+Dumbo,1941, Drama,7.2,
+Dumbo,1941, Family,7.2,
+Dumbo,1941, Musical,7.2,
+The Reluctant Dragon,1941,Animation,7,
+The Reluctant Dragon,1941, Comedy,7,
+The Reluctant Dragon,1941, Family,7,
+Bambi,1942,Animation,7.3,
+Bambi,1942, Drama,7.3,
+Bambi,1942, Family,7.3,
+Saludos Amigos,1942,Animation,6.2,
+Saludos Amigos,1942, Short,6.2,
+Saludos Amigos,1942, Family,6.2,
+Saludos Amigos,1942, Fantasy,6.2,
+Saludos Amigos,1942, Music,6.2,
+Private Pluto,1943,Animation,6.8,
+Private Pluto,1943, Comedy,6.8,
+Private Pluto,1943, Family,6.8,
+Donald Duck and the Gorilla,1944,Family,7.4,
+Donald Duck and the Gorilla,1944, Comedy,7.4,
+Donald Duck and the Gorilla,1944, Animation,7.4,
+The Three Caballeros,1944,Animation,6.5,
+The Three Caballeros,1944, Comedy,6.5,
+The Three Caballeros,1944, Family,6.5,
+The Three Caballeros,1944, Fantasy,6.5,
+The Three Caballeros,1944, Musical,6.5,
+The Legend of Coyote Rock,1945,Family,6.6,
+The Legend of Coyote Rock,1945, Western,6.6,
+The Legend of Coyote Rock,1945, Animation,6.6,
+Make Mine Music,1946,Animation,6.3,
+Make Mine Music,1946, Family,6.3,
+Make Mine Music,1946, Music,6.3,
+Song of the South,1946,Animation,7.1,
+Song of the South,1946, Comedy,7.1,
+Song of the South,1946, Family,7.1,
+Song of the South,1946, Fantasy,7.1,
+Song of the South,1946, Musical,7.1,
+Fun and Fancy Free,1947,Animation,6.6,
+Fun and Fancy Free,1947, Adventure,6.6,
+Fun and Fancy Free,1947, Comedy,6.6,
+Fun and Fancy Free,1947, Family,6.6,
+Fun and Fancy Free,1947, Fantasy,6.6,
+Fun and Fancy Free,1947, Musical,6.6,
+Fun and Fancy Free,1947, Romance,6.6,
+Melody Time,1948,Animation,6.4,
+Melody Time,1948, Family,6.4,
+Melody Time,1948, Music,6.4,
+Melody Time,1948, Musical,6.4,
+The Adventures of Ichabod and Mr. Toad,1949,Animation,7,
+The Adventures of Ichabod and Mr. Toad,1949, Comedy,7,
+The Adventures of Ichabod and Mr. Toad,1949, Family,7,
+The Adventures of Ichabod and Mr. Toad,1949, Fantasy,7,
+The Adventures of Ichabod and Mr. Toad,1949, Horror,7,
+Sheep Dog,1949,Animation,6.2,
+Sheep Dog,1949, Comedy,6.2,
+Sheep Dog,1949, Family,6.2,
+Sheep Dog,1949, Short,6.2,
+Hold That Pose,1950,Family,7.1,
+Hold That Pose,1950, Comedy,7.1,
+Hold That Pose,1950, Animation,7.1,
+Hold That Pose,1950, Short,7.1,
+Peter Pan,1953,Animation,7.3,
+Peter Pan,1953, Adventure,7.3,
+Peter Pan,1953, Family,7.3,
+Peter Pan,1953, Fantasy,7.3,
+Peter Pan,1953, Musical,7.3,
+Grin and Bear It,1954,Animation,7.2,
+Grin and Bear It,1954, Short,7.2,
+Grin and Bear It,1954, Comedy,7.2,
+Grin and Bear It,1954, Family,7.2,
+Lady and the Tramp,1955,Animation,7.3,
+Lady and the Tramp,1955, Adventure,7.3,
+Lady and the Tramp,1955, Comedy,7.3,
+Lady and the Tramp,1955, Drama,7.3,
+Lady and the Tramp,1955, Family,7.3,
+Lady and the Tramp,1955, Romance,7.3,
+Teacher's Pet,1958,Comedy,7.1,
+Teacher's Pet,1958, Romance,7.1,
+Sleeping Beauty,1959,Animation,7.2,
+Sleeping Beauty,1959, Family,7.2,
+Sleeping Beauty,1959, Fantasy,7.2,
+Sleeping Beauty,1959, Musical,7.2,
+Sleeping Beauty,1959, Romance,7.2,
+One Hundred and One Dalmatians,1961,Animation,7.2,
+One Hundred and One Dalmatians,1961, Adventure,7.2,
+One Hundred and One Dalmatians,1961, Comedy,7.2,
+One Hundred and One Dalmatians,1961, Family,7.2,
+The Sword in the Stone,1963,Animation,7.2,
+The Sword in the Stone,1963, Adventure,7.2,
+The Sword in the Stone,1963, Comedy,7.2,
+The Sword in the Stone,1963, Family,7.2,
+The Sword in the Stone,1963, Fantasy,7.2,
+The Sword in the Stone,1963, Musical,7.2,
+Mary Poppins,1964,Comedy,7.8,
+Mary Poppins,1964, Family,7.8,
+Mary Poppins,1964, Fantasy,7.8,
+Mary Poppins,1964, Musical,7.8,
+Winnie the Pooh and the Honey Tree,1966,Animation,8,
+Winnie the Pooh and the Honey Tree,1966, Short,8,
+Winnie the Pooh and the Honey Tree,1966, Comedy,8,
+Winnie the Pooh and the Honey Tree,1966, Family,8,
+Winnie the Pooh and the Honey Tree,1966, Musical,8,
+Winnie the Pooh and the Blustery Day,1968,Animation,8,
+Winnie the Pooh and the Blustery Day,1968, Short,8,
+Winnie the Pooh and the Blustery Day,1968, Comedy,8,
+Winnie the Pooh and the Blustery Day,1968, Family,8,
+Winnie the Pooh and the Blustery Day,1968, Musical,8,
+The Aristocats,1970,Animation,7.1,
+The Aristocats,1970, Adventure,7.1,
+The Aristocats,1970, Comedy,7.1,
+The Aristocats,1970, Family,7.1,
+The Aristocats,1970, Musical,7.1,
+The Aristocats,1970,Animation,7.1,
+The Aristocats,1970, Adventure,7.1,
+The Aristocats,1970, Comedy,7.1,
+The Aristocats,1970, Family,7.1,
+The Aristocats,1970, Musical,7.1,
+Bedknobs and Broomsticks,1971,Animation,7.1,
+Bedknobs and Broomsticks,1971, Adventure,7.1,
+Bedknobs and Broomsticks,1971, Comedy,7.1,
+Bedknobs and Broomsticks,1971, Family,7.1,
+Bedknobs and Broomsticks,1971, Fantasy,7.1,
+Bedknobs and Broomsticks,1971, Musical,7.1,
+Timon,1973,Drama,8.3,
+The Rescuers,1977,Animation,6.9,
+The Rescuers,1977, Adventure,6.9,
+The Rescuers,1977, Comedy,6.9,
+The Rescuers,1977, Family,6.9,
+The Rescuers,1977, Fantasy,6.9,
+Foods and Fun: A Nutrition Adventure,1980,Animation,,
+Foods and Fun: A Nutrition Adventure,1980, Short,,
+The Fox and the Hound,1981,Animation,7.3,
+The Fox and the Hound,1981, Adventure,7.3,
+The Fox and the Hound,1981, Drama,7.3,
+The Fox and the Hound,1981, Family,7.3,
+Oliver,1983,Documentary,7.6,
+The Black Cauldron,1985,Animation,6.4,
+The Black Cauldron,1985, Action,6.4,
+The Black Cauldron,1985, Adventure,6.4,
+The Black Cauldron,1985, Family,6.4,
+The Black Cauldron,1985, Fantasy,6.4,
+The Black Cauldron,1985, Horror,6.4,
+The Great Mouse Detective,1986,Animation,7.2,
+The Great Mouse Detective,1986, Adventure,7.2,
+The Great Mouse Detective,1986, Family,7.2,
+The Great Mouse Detective,1986, Musical,7.2,
+The Great Mouse Detective,1986, Mystery,7.2,
+DuckTales,1987,Animation,8.1,
+DuckTales,1987, Adventure,8.1,
+DuckTales,1987, Comedy,8.1,
+DuckTales,1987, Family,8.1,
+Chip 'n' Dale Rescue Rangers,1988,Animation,7.6,
+Chip 'n' Dale Rescue Rangers,1988, Adventure,7.6,
+Chip 'n' Dale Rescue Rangers,1988, Comedy,7.6,
+Chip 'n' Dale Rescue Rangers,1988, Family,7.6,
+Chip 'n' Dale Rescue Rangers,1988, Mystery,7.6,
+The Little Mermaid,1989,Animation,7.6,
+The Little Mermaid,1989, Family,7.6,
+The Little Mermaid,1989, Fantasy,7.6,
+The Little Mermaid,1989, Musical,7.6,
+The Little Mermaid,1989, Romance,7.6,
+The Rescuers Down Under,1990,Animation,6.9,
+The Rescuers Down Under,1990, Adventure,6.9,
+The Rescuers Down Under,1990, Crime,6.9,
+The Rescuers Down Under,1990, Drama,6.9,
+The Rescuers Down Under,1990, Family,6.9,
+The Rescuers Down Under,1990, Fantasy,6.9,
+The Rescuers Down Under,1990, Mystery,6.9,
+TaleSpin,1990,Animation,7.6,
+TaleSpin,1990, Short,7.6,
+TaleSpin,1990, Action,7.6,
+TaleSpin,1990, Adventure,7.6,
+TaleSpin,1990, Comedy,7.6,
+TaleSpin,1990, Drama,7.6,
+TaleSpin,1990, Family,7.6,
+TaleSpin,1990, Fantasy,7.6,
+TaleSpin,1990, Mystery,7.6,
+Beauty and the Beast,1991,Animation,8,47611331
+Beauty and the Beast,1991, Family,8,47611331
+Beauty and the Beast,1991, Fantasy,8,47611331
+Beauty and the Beast,1991, Musical,8,47611331
+Beauty and the Beast,1991, Romance,8,47611331
+Darkwing Duck,1991,Animation,7.6,
+Darkwing Duck,1991, Short,7.6,
+Darkwing Duck,1991, Action,7.6,
+Darkwing Duck,1991, Adventure,7.6,
+Darkwing Duck,1991, Comedy,7.6,
+Darkwing Duck,1991, Family,7.6,
+Darkwing Duck,1991, Mystery,7.6,
+Darkwing Duck,1991, Sci-Fi,7.6,
+Aladdin,1992,Animation,8,
+Aladdin,1992, Adventure,8,
+Aladdin,1992, Comedy,8,
+Aladdin,1992, Family,8,
+Aladdin,1992, Fantasy,8,
+Aladdin,1992, Musical,8,
+Aladdin,1992, Romance,8,
+Goof Troop,1992,Animation,6.8,
+Goof Troop,1992, Short,6.8,
+Goof Troop,1992, Adventure,6.8,
+Goof Troop,1992, Comedy,6.8,
+Goof Troop,1992, Family,6.8,
+Goof Troop,1992, Music,6.8,
+Bonkers,1993,Animation,6.9,
+Bonkers,1993, Comedy,6.9,
+Bonkers,1993, Crime,6.9,
+Bonkers,1993, Family,6.9,
+The Nightmare Before Christmas,1993,Animation,8,8616662
+The Nightmare Before Christmas,1993, Family,8,8616662
+The Nightmare Before Christmas,1993, Fantasy,8,8616662
+The Nightmare Before Christmas,1993, Musical,8,8616662
+Aladdin and the Return of Jafar,1994,Animation,5.9,
+Aladdin and the Return of Jafar,1994, Adventure,5.9,
+Aladdin and the Return of Jafar,1994, Comedy,5.9,
+Aladdin and the Return of Jafar,1994, Family,5.9,
+Aladdin and the Return of Jafar,1994, Fantasy,5.9,
+Aladdin and the Return of Jafar,1994, Musical,5.9,
+Aladdin and the Return of Jafar,1994, Romance,5.9,
+The Lion King,1994,Animation,8.5,94240635
+The Lion King,1994, Adventure,8.5,94240635
+The Lion King,1994, Drama,8.5,94240635
+The Lion King,1994, Family,8.5,94240635
+The Lion King,1994, Musical,8.5,94240635
+Pocahontas,1995,Animation,6.7,
+Pocahontas,1995, Adventure,6.7,
+Pocahontas,1995, Drama,6.7,
+Pocahontas,1995, Family,6.7,
+Pocahontas,1995, Musical,6.7,
+Pocahontas,1995, Romance,6.7,
+A Goofy Movie,1995,Animation,6.8,
+A Goofy Movie,1995, Adventure,6.8,
+A Goofy Movie,1995, Comedy,6.8,
+A Goofy Movie,1995, Family,6.8,
+A Goofy Movie,1995, Musical,6.8,
+A Goofy Movie,1995, Romance,6.8,
+The Hunchback of Notre Dame,1996,Animation,6.9,
+The Hunchback of Notre Dame,1996, Drama,6.9,
+The Hunchback of Notre Dame,1996, Family,6.9,
+The Hunchback of Notre Dame,1996, Musical,6.9,
+The Hunchback of Notre Dame,1996, Romance,6.9,
+101 Dalmatians,1996,Adventure,5.7,
+101 Dalmatians,1996, Comedy,5.7,
+101 Dalmatians,1996, Crime,5.7,
+101 Dalmatians,1996, Family,5.7,
+Jungle Cubs,1996,Animation,6.3,
+Jungle Cubs,1996, Adventure,6.3,
+Jungle Cubs,1996, Comedy,6.3,
+Jungle Cubs,1996, Family,6.3,
+Aladdin and the King of Thieves,1996,Animation,6.4,
+Aladdin and the King of Thieves,1996, Adventure,6.4,
+Aladdin and the King of Thieves,1996, Comedy,6.4,
+Aladdin and the King of Thieves,1996, Family,6.4,
+Aladdin and the King of Thieves,1996, Fantasy,6.4,
+Aladdin and the King of Thieves,1996, Musical,6.4,
+Aladdin and the King of Thieves,1996, Romance,6.4,
+Hercules,1997,Animation,7.3,
+Hercules,1997, Adventure,7.3,
+Hercules,1997, Comedy,7.3,
+Hercules,1997, Family,7.3,
+Hercules,1997, Fantasy,7.3,
+Hercules,1997, Musical,7.3,
+Hercules,1997, Romance,7.3,
+Beauty and the Beast: The Enchanted Christmas,1997,Animation,6.1,
+Beauty and the Beast: The Enchanted Christmas,1997, Family,6.1,
+Beauty and the Beast: The Enchanted Christmas,1997, Fantasy,6.1,
+Beauty and the Beast: The Enchanted Christmas,1997, Music,6.1,
+Beauty and the Beast: The Enchanted Christmas,1997, Musical,6.1,
+101 Dalmatians: The Series,1997,Animation,6.1,
+101 Dalmatians: The Series,1997, Short,6.1,
+101 Dalmatians: The Series,1997, Adventure,6.1,
+101 Dalmatians: The Series,1997, Comedy,6.1,
+101 Dalmatians: The Series,1997, Family,6.1,
+Pepper Ann,1997,Animation,7.1,
+Pepper Ann,1997, Family,7.1,
+Pepper Ann,1997, Comedy,7.1,
+Belle's Magical World,1998,Animation,5.4,
+Belle's Magical World,1998, Comedy,5.4,
+Belle's Magical World,1998, Family,5.4,
+Belle's Magical World,1998, Fantasy,5.4,
+Belle's Magical World,1998, Musical,5.4,
+Belle's Magical World,1998, Romance,5.4,
+Mulan,1998,Animation,7.6,
+Mulan,1998, Adventure,7.6,
+Mulan,1998, Family,7.6,
+Mulan,1998, Fantasy,7.6,
+Mulan,1998, Musical,7.6,
+Mulan,1998, War,7.6,
+Tarzan,1999,Animation,7.3,
+Tarzan,1999, Adventure,7.3,
+Tarzan,1999, Family,7.3,
+Tarzan,1999, Romance,7.3,
+Fantasia 2000,1999,Animation,7.2,
+Fantasia 2000,1999, Comedy,7.2,
+Fantasia 2000,1999, Family,7.2,
+Fantasia 2000,1999, Fantasy,7.2,
+Fantasia 2000,1999, Music,7.2,
+Journey Into Imagination: With Figment,1999,Short,6,
+Dinosaur,2000,Animation,6.5,135606304
+Dinosaur,2000, Adventure,6.5,135606304
+Dinosaur,2000, Family,6.5,135606304
+Dinosaur,2000, Thriller,6.5,135606304
+An Extremely Goofy Movie,2000,Animation,6.3,
+An Extremely Goofy Movie,2000, Comedy,6.3,
+An Extremely Goofy Movie,2000, Family,6.3,
+An Extremely Goofy Movie,2000, Sport,6.3,
+The Emperor's New Groove,2000,Animation,7.3,87320505
+The Emperor's New Groove,2000, Adventure,7.3,87320505
+The Emperor's New Groove,2000, Comedy,7.3,87320505
+The Emperor's New Groove,2000, Family,7.3,87320505
+The Emperor's New Groove,2000, Fantasy,7.3,87320505
+The Weekenders,2000,Animation,8,
+The Weekenders,2000, Comedy,8,
+The Weekenders,2000, Family,8,
+House of Mouse,2001,Animation,7.6,
+House of Mouse,2001, Comedy,7.6,
+House of Mouse,2001, Family,7.6,
+Atlantis: The Lost Empire,2001,Animation,6.9,83561615
+Atlantis: The Lost Empire,2001, Action,6.9,83561615
+Atlantis: The Lost Empire,2001, Adventure,6.9,83561615
+Atlantis: The Lost Empire,2001, Family,6.9,83561615
+Atlantis: The Lost Empire,2001, Fantasy,6.9,83561615
+Atlantis: The Lost Empire,2001, Sci-Fi,6.9,83561615
+Silly Symphonies Souvenirs,2001,Documentary,7.4,
+Silly Symphonies Souvenirs,2001, Short,7.4,
+Lilo & Stitch,2002,Animation,7.2,145771527
+Lilo & Stitch,2002, Adventure,7.2,145771527
+Lilo & Stitch,2002, Comedy,7.2,145771527
+Lilo & Stitch,2002, Drama,7.2,145771527
+Lilo & Stitch,2002, Family,7.2,145771527
+Lilo & Stitch,2002, Fantasy,7.2,145771527
+Lilo & Stitch,2002, Sci-Fi,7.2,145771527
+Lilo & Stitch,2002,Animation,7.2,145771527
+Lilo & Stitch,2002, Adventure,7.2,145771527
+Lilo & Stitch,2002, Comedy,7.2,145771527
+Lilo & Stitch,2002, Drama,7.2,145771527
+Lilo & Stitch,2002, Family,7.2,145771527
+Lilo & Stitch,2002, Fantasy,7.2,145771527
+Lilo & Stitch,2002, Sci-Fi,7.2,145771527
+The Country Bears,2002,Comedy,4.1,16892873
+The Country Bears,2002, Family,4.1,16892873
+The Country Bears,2002, Music,4.1,16892873
+The Country Bears,2002, Musical,4.1,16892873
+Treasure Planet,2002,Animation,7.2,38120554
+Treasure Planet,2002, Adventure,7.2,38120554
+Treasure Planet,2002, Family,7.2,38120554
+Treasure Planet,2002, Sci-Fi,7.2,38120554
+Peter Pan 2: Return to Never Land,2002,Animation,5.8,48325822
+Peter Pan 2: Return to Never Land,2002, Adventure,5.8,48325822
+Peter Pan 2: Return to Never Land,2002, Family,5.8,48325822
+Peter Pan 2: Return to Never Land,2002, Fantasy,5.8,48325822
+Kim Possible,2002,Animation,7.2,
+Kim Possible,2002, Action,7.2,
+Kim Possible,2002, Adventure,7.2,
+Kim Possible,2002, Comedy,7.2,
+Kim Possible,2002, Family,7.2,
+Kim Possible,2002, Mystery,7.2,
+Kim Possible,2002, Romance,7.2,
+Kim Possible,2002, Sci-Fi,7.2,
+Brother Bear,2003,Animation,6.8,85095337
+Brother Bear,2003, Adventure,6.8,85095337
+Brother Bear,2003, Comedy,6.8,85095337
+Brother Bear,2003, Family,6.8,85095337
+Brother Bear,2003, Fantasy,6.8,85095337
+Stitch! The Movie,2003,Animation,6.2,
+Stitch! The Movie,2003, Adventure,6.2,
+Stitch! The Movie,2003, Comedy,6.2,
+Stitch! The Movie,2003, Family,6.2,
+Stitch! The Movie,2003, Sci-Fi,6.2,
+Finding Nemo,2003,Animation,8.1,380529370
+Finding Nemo,2003, Adventure,8.1,380529370
+Finding Nemo,2003, Comedy,8.1,380529370
+Finding Nemo,2003, Family,8.1,380529370
+Home on the Range,2004,Animation,5.3,49887802
+Home on the Range,2004, Adventure,5.3,49887802
+Home on the Range,2004, Comedy,5.3,49887802
+Home on the Range,2004, Family,5.3,49887802
+Home on the Range,2004, Music,5.3,49887802
+Home on the Range,2004, Western,5.3,49887802
+The Incredibles,2004,Animation,8,
+The Incredibles,2004, Action,8,
+The Incredibles,2004, Adventure,8,
+The Incredibles,2004, Family,8,
+Higglytown Heroes,2004,Animation,5.3,
+Higglytown Heroes,2004, Family,5.3,
+Chicken Little,2005,Animation,5.7,135289768
+Chicken Little,2005, Adventure,5.7,135289768
+Chicken Little,2005, Comedy,5.7,135289768
+Chicken Little,2005, Family,5.7,135289768
+Chicken Little,2005, Fantasy,5.7,135289768
+Chicken Little,2005, Sci-Fi,5.7,135289768
+Pooh's Heffalump Movie,2005,Animation,6.4,18013938
+Pooh's Heffalump Movie,2005, Comedy,6.4,18013938
+Pooh's Heffalump Movie,2005, Family,6.4,18013938
+Pooh's Heffalump Movie,2005, Fantasy,6.4,18013938
+Pooh's Heffalump Movie,2005, Musical,6.4,18013938
+Pooh's Heffalump Movie,2005, Mystery,6.4,18013938
+Brother Bear 2,2006,Animation,6.2,
+Brother Bear 2,2006, Adventure,6.2,
+Brother Bear 2,2006, Comedy,6.2,
+Brother Bear 2,2006, Family,6.2,
+Brother Bear 2,2006, Fantasy,6.2,
+Mickey Mouse Clubhouse,2006,Animation,5.7,
+Mickey Mouse Clubhouse,2006, Comedy,5.7,
+Mickey Mouse Clubhouse,2006, Family,5.7,
+Mickey Mouse Clubhouse,2006, Fantasy,5.7,
+Mickey Mouse Clubhouse,2006, Musical,5.7,
+The Fox and the Hound 2,2006,Animation,5.3,
+The Fox and the Hound 2,2006, Adventure,5.3,
+The Fox and the Hound 2,2006, Comedy,5.3,
+The Fox and the Hound 2,2006, Family,5.3,
+The Fox and the Hound 2,2006, Musical,5.3,
+The Emperor's New School,2006,Animation,6.6,
+The Emperor's New School,2006, Comedy,6.6,
+The Emperor's New School,2006, Family,6.6,
+The Emperor's New School,2006, Fantasy,6.6,
+Meet the Robinsons,2007,Animation,6.8,97690955
+Meet the Robinsons,2007, Adventure,6.8,97690955
+Meet the Robinsons,2007, Comedy,6.8,97690955
+Meet the Robinsons,2007, Family,6.8,97690955
+Meet the Robinsons,2007, Sci-Fi,6.8,97690955
+Phineas and Ferb,2007,Animation,7.9,
+Phineas and Ferb,2007, Action,7.9,
+Phineas and Ferb,2007, Comedy,7.9,
+Phineas and Ferb,2007, Family,7.9,
+Phineas and Ferb,2007, Musical,7.9,
+Phineas and Ferb,2007, Sci-Fi,7.9,
+My Friends Tigger & Pooh,2007,Animation,5.7,
+My Friends Tigger & Pooh,2007, Family,5.7,
+Enchanted,2007,Animation,7,127706877
+Enchanted,2007, Comedy,7,127706877
+Enchanted,2007, Family,7,127706877
+Enchanted,2007, Fantasy,7,127706877
+Enchanted,2007, Musical,7,127706877
+Enchanted,2007, Romance,7,127706877
+Bolt,2008,Animation,6.8,114053579
+Bolt,2008, Adventure,6.8,114053579
+Bolt,2008, Comedy,6.8,114053579
+Bolt,2008, Drama,6.8,114053579
+Bolt,2008, Family,6.8,114053579
+Wild About Safety: Timon and Pumbaa Safety Smart at Home!,2008,Animation,7.3,
+Wild About Safety: Timon and Pumbaa Safety Smart at Home!,2008, Short,7.3,
+The Little Mermaid: Ariel's Beginning,2008,Animation,6.3,
+The Little Mermaid: Ariel's Beginning,2008, Drama,6.3,
+The Little Mermaid: Ariel's Beginning,2008, Family,6.3,
+The Little Mermaid: Ariel's Beginning,2008, Fantasy,6.3,
+The Little Mermaid: Ariel's Beginning,2008, Musical,6.3,
+Tinker Bell and the Lost Treasure,2009,Animation,6.7,
+Tinker Bell and the Lost Treasure,2009, Adventure,6.7,
+Tinker Bell and the Lost Treasure,2009, Family,6.7,
+Tinker Bell and the Lost Treasure,2009, Fantasy,6.7,
+The Princess and the Frog,2009,Animation,7.1,104374107
+The Princess and the Frog,2009, Adventure,7.1,104374107
+The Princess and the Frog,2009, Comedy,7.1,104374107
+The Princess and the Frog,2009, Family,7.1,104374107
+The Princess and the Frog,2009, Fantasy,7.1,104374107
+The Princess and the Frog,2009, Musical,7.1,104374107
+The Princess and the Frog,2009, Romance,7.1,104374107
+Robin Hood,2010,Action,6.6,105219735
+Robin Hood,2010, Drama,6.6,105219735
+Robin Hood,2010, History,6.6,105219735
+Robin Hood,2010, Romance,6.6,105219735
+Alice in Wonderland,2010,Adventure,6.4,319323000
+Alice in Wonderland,2010, Family,6.4,319323000
+Alice in Wonderland,2010, Fantasy,6.4,319323000
+Tangled,2010,Animation,7.7,200803309
+Tangled,2010, Adventure,7.7,200803309
+Tangled,2010, Comedy,7.7,200803309
+Tangled,2010, Family,7.7,200803309
+Tangled,2010, Fantasy,7.7,200803309
+Tangled,2010, Musical,7.7,200803309
+Tangled,2010, Romance,7.7,200803309
+Tinker Bell and the Great Fairy Rescue,2010,Animation,6.9,288544
+Tinker Bell and the Great Fairy Rescue,2010, Adventure,6.9,288544
+Tinker Bell and the Great Fairy Rescue,2010, Family,6.9,288544
+Tinker Bell and the Great Fairy Rescue,2010, Fantasy,6.9,288544
+TRON: Legacy,2010,Action,6.8,172051787
+TRON: Legacy,2010, Adventure,6.8,172051787
+TRON: Legacy,2010, Sci-Fi,6.8,172051787
+Wreck-It Ralph,2012,Animation,7.7,189412677
+Wreck-It Ralph,2012, Adventure,7.7,189412677
+Wreck-It Ralph,2012, Comedy,7.7,189412677
+Wreck-It Ralph,2012, Family,7.7,189412677
+Wreck-It Ralph,2012, Fantasy,7.7,189412677
+Gravity Falls,2012,Animation,8.9,
+Gravity Falls,2012, Short,8.9,
+Gravity Falls,2012, Action,8.9,
+Gravity Falls,2012, Adventure,8.9,
+Gravity Falls,2012, Comedy,8.9,
+Gravity Falls,2012, Family,8.9,
+Gravity Falls,2012, Fantasy,8.9,
+Gravity Falls,2012, Mystery,8.9,
+Gravity Falls,2012, Sci-Fi,8.9,
+Secret of the Wings,2012,Animation,7.1,1871624
+Secret of the Wings,2012, Family,7.1,1871624
+Secret of the Wings,2012, Fantasy,7.1,1871624
+Tangled Ever After,2012,Animation,7.6,
+Tangled Ever After,2012, Short,7.6,
+Tangled Ever After,2012, Action,7.6,
+Tangled Ever After,2012, Comedy,7.6,
+Tangled Ever After,2012, Family,7.6,
+Tangled Ever After,2012, Musical,7.6,
+Frankenweenie,2012,Animation,6.9,35287788
+Frankenweenie,2012, Comedy,6.9,35287788
+Frankenweenie,2012, Family,6.9,35287788
+Frankenweenie,2012, Horror,6.9,35287788
+Frankenweenie,2012, Sci-Fi,6.9,35287788
+Frozen,2013,Animation,7.5,400736600
+Frozen,2013, Adventure,7.5,400736600
+Frozen,2013, Comedy,7.5,400736600
+Frozen,2013, Family,7.5,400736600
+Frozen,2013, Fantasy,7.5,400736600
+Frozen,2013, Musical,7.5,400736600
+Sofia the First,2013,Animation,7,
+Sofia the First,2013, Adventure,7,
+Sofia the First,2013, Family,7,
+Sofia the First,2013, Fantasy,7,
+Sofia the First,2013, Musical,7,
+Mulan: 15th Anniversary - The Voices of Mulan II,2013,Documentary,,
+Mulan: 15th Anniversary - The Voices of Mulan II,2013, Short,,
+Big Hero 6,2014,Animation,7.8,
+Big Hero 6,2014, Action,7.8,
+Big Hero 6,2014, Adventure,7.8,
+Big Hero 6,2014, Family,7.8,
+Big Hero 6,2014, Sci-Fi,7.8,
+The Sleepwalker,2014,Drama,4.9,2636
+Cinderella,2015,Drama,6.9,183327144
+Cinderella,2015, Family,6.9,183327144
+Cinderella,2015, Fantasy,6.9,183327144
+Cinderella,2015, Romance,6.9,183327144
+The Jungle Book,2016,Adventure,7.4,363995937
+The Jungle Book,2016, Drama,7.4,363995937
+The Jungle Book,2016, Family,7.4,363995937
+The Jungle Book,2016, Fantasy,7.4,363995937
+Zootopia,2016,Animation,8,341264012
+Zootopia,2016, Adventure,8,341264012
+Zootopia,2016, Comedy,8,341264012
+Zootopia,2016, Crime,8,341264012
+Zootopia,2016, Family,8,341264012
+Zootopia,2016, Mystery,8,341264012
+The Lion Guard,2016,Animation,6.5,
+The Lion Guard,2016, Action,6.5,
+The Lion Guard,2016, Adventure,6.5,
+The Lion Guard,2016, Comedy,6.5,
+The Lion Guard,2016, Family,6.5,
+The Lion Guard,2016, Fantasy,6.5,
+The Lion Guard,2016, Music,6.5,
+Pete's Dragon,2016,Action,6.7,76228119
+Pete's Dragon,2016, Adventure,6.7,76228119
+Pete's Dragon,2016, Comedy,6.7,76228119
+Pete's Dragon,2016, Drama,6.7,76228119
+Pete's Dragon,2016, Family,6.7,76228119
+Pete's Dragon,2016, Fantasy,6.7,76228119
+Moana,2016,Animation,7.6,248752120
+Moana,2016, Adventure,7.6,248752120
+Moana,2016, Comedy,7.6,248752120
+Moana,2016, Family,7.6,248752120
+Moana,2016, Fantasy,7.6,248752120
+Moana,2016, Musical,7.6,248752120
+Milo Murphy's Law,2016,Animation,7.6,
+Milo Murphy's Law,2016, Short,7.6,
+Milo Murphy's Law,2016, Action,7.6,
+Milo Murphy's Law,2016, Adventure,7.6,
+Milo Murphy's Law,2016, Comedy,7.6,
+Milo Murphy's Law,2016, Family,7.6,
+Milo Murphy's Law,2016, Fantasy,7.6,
+Ralph Breaks the Internet,2018,Animation,7.1,
+Ralph Breaks the Internet,2018, Adventure,7.1,
+Ralph Breaks the Internet,2018, Comedy,7.1,
+Ralph Breaks the Internet,2018, Family,7.1,
+Ralph Breaks the Internet,2018, Fantasy,7.1,
