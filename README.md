@@ -16,7 +16,7 @@
         * To ensure the *keyword_world_cloud* function runs, you need the put *mm.png* and this notebook in the same folder
    * TO RUN THIS PROJECT, make sure the above packages are installed, and then simply clone the repo at *ADD link* and execute this notebook
 
-3.	**Questions set out to study  :
+3.	**Questions set out to study** :
     * I am curious about how the Disney animated movie changes, in terms of their genre, keywords, rating, character gender.
 
     * There are 9 questions I raised:
